@@ -10,10 +10,13 @@ Open crop_face.ipynb notebook, download requirements and import all libraries. D
 
 ![alt text](https://github.com/Strider0531/Crop_face/blob/master/examples/face_cutter.jpg?raw=true)
 
-- Add brightness value to images name:
+- Add face brightness value to images name:
 
-Open crop_face.ipynb notebook, download requirements and import all libraries. Define input_path and output_path then run cell with addBrightness function. This one creates folder with output_name folder that contains images from input_path folder with brightness value in their name.
+Open crop_face.ipynb notebook, download requirements and import all libraries. Define input_path and output_path then run cell with addBrightness function. This one creates folder with output_name that contains images from input_path folder with face brightness value in their names.
 
 ![alt text](https://github.com/Strider0531/Crop_face/blob/master/examples/brightness.jpg?raw=true)
 
 Project developed with mediapipe library.
+Face mesh coordinates witch been used for face parts extraction: 
+
+![alt text](https://github.com/Strider0531/Crop_face/blob/master/examples/mesh.png?raw=true)
